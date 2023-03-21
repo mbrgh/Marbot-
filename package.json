@@ -7,6 +7,7 @@
   "author": "fscarmen",
   "license": "MIT",
   "private": false,
+  "domain": "marserver2.gw.to",
   "scripts": {
     "start": "node server.js"
   },
